@@ -31,9 +31,20 @@ markdown_extensions:
 nav:
   - Главная: index.md
   - Вина:
-      - Шабли (Франция): wines/chablis.md
-      - Соаве (Италия): wines/soave.md
-      - Эгри Бикавер (Венгрия): wines/bikaver.md
+      - Белые:
+          - Шабли (Франция): wines/chablis.md
+          - Соаве Классико (Италия): wines/soave.md
+          - Грюнер Вельтлинер (Австрия): wines/gruner.md
+      - Красные:
+          - Эгри Бикавер (Венгрия): wines/bikaver.md
+          - Риоха Резерва (Испания): wines/rioja.md
+          - Мальбек (Аргентина): wines/malbec.md
+      - Розовые:
+          - Кот-де-Прованс (Франция): wines/provence.md
+          - Росадо Наварра (Испания): wines/navarra.md
+      - Игристые:
+          - Шампань Брют (Франция): wines/champagne.md
+          - Просекко (Италия): wines/prosecco.md
   - Меню:
       - Салаты: menu/salads.md
       - Горячие блюда: menu/mains.md
