@@ -34,5 +34,13 @@ nav:
       - Шабли (Франция): wines/chablis.md
       - Соаве (Италия): wines/soave.md
       - Эгри Бикавер (Венгрия): wines/bikaver.md
-  - Меню: menu.md
-  - Подача вина: serving.md
+  - Меню:
+      - Салаты: menu/salads.md
+      - Горячие блюда: menu/mains.md
+      - Десерты: menu/desserts.md
+  - Подача вина:
+      - Температура подачи: serving/temperature.md
+      - Порядок подачи: serving/order.md
+      - Бокалы: serving/glasses.md
+      - Декантация: serving/decanting.md
+      - Хранение: serving/storage.md
