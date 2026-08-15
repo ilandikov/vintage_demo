@@ -1,0 +1,11 @@
+:root > * {
+  --md-primary-fg-color: #9c1722;
+  --md-primary-fg-color--light: #b8404a;
+  --md-primary-fg-color--dark: #7a1119;
+  --md-accent-fg-color: #9c1722;
+}
+
+/* Hide the default MkDocs Material header logo/icon */
+.md-header__button.md-logo {
+  display: none;
+}

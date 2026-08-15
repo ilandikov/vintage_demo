@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="400" height="800">
+  <defs>
+    <linearGradient id="glassSoave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d8c98a" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#e9dfae" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#c9b871" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="800" fill="none"/>
+
+  <!-- bottle body -->
+  <path d="M180,50 L220,50 L220,180 Q220,220 260,260 L290,700 Q290,760 230,760 L170,760 Q110,760 110,700 L140,260 Q180,220 180,180 Z"
+        fill="url(#glassSoave)" stroke="#8a7538" stroke-width="2"/>
+
+  <!-- cap / foil -->
+  <rect x="175" y="18" width="50" height="42" rx="4" fill="#39567d" stroke="#233c5c" stroke-width="1.5"/>
+  <rect x="175" y="34" width="50" height="6" fill="#233c5c"/>
+
+  <!-- label -->
+  <rect x="135" y="370" width="130" height="230" rx="3" fill="#fbf8f0" stroke="#9c1722" stroke-width="2"/>
+  <rect x="143" y="378" width="114" height="214" rx="2" fill="none" stroke="#39567d" stroke-width="1"/>
+
+  <text x="200" y="415" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="3" fill="#9c1722">ITALIA</text>
+  <line x1="165" y1="428" x2="235" y2="428" stroke="#39567d" stroke-width="1"/>
+
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#2f2a1e">Soave</text>
+  <text x="200" y="490" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#2f2a1e">Classico</text>
+  <text x="200" y="510" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="2" fill="#6b5b3a">DENOMINAZIONE DI ORIGINE CONTROLLATA</text>
+
+  <line x1="165" y1="522" x2="235" y2="522" stroke="#39567d" stroke-width="1"/>
+  <text x="200" y="548" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#2f2a1e">Tenuta al Colle</text>
+  <text x="200" y="568" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#6b5b3a">Garganega</text>
+
+  <text x="200" y="585" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#9c1722">2023</text>
+
+  <!-- lower neck ring -->
+  <rect x="176" y="175" width="48" height="6" fill="#39567d" opacity="0.7"/>
+</svg>
