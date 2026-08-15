@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="400" height="800">
+  <defs>
+    <linearGradient id="glasskriek" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a51e35" stop-opacity="0.65"/>
+      <stop offset="50%" stop-color="#d05a6e" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7a1526" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="800" fill="none"/>
+
+  <path d="M178,40 L222,40 L222,190 Q222,225 260,260 L280,700 Q280,760 220,760 L180,760 Q120,760 120,700 L140,260 Q178,225 178,190 Z" fill="url(#glasskriek)" stroke="#5c0f1c" stroke-width="2"/>
+
+  <!-- crown cap -->
+  <circle cx="200" cy="34" r="26" fill="#c9c9c9" stroke="#8a8a8a" stroke-width="2"/>
+  <circle cx="200" cy="34" r="26" fill="none" stroke="#8a8a8a" stroke-width="5" stroke-dasharray="3.5 3.2"/>
+
+  <rect x="130" y="360" width="140" height="210" rx="3" fill="#fdf0f1" stroke="#9c1722" stroke-width="2"/>
+  <rect x="138" y="368" width="124" height="194" rx="2" fill="none" stroke="#c9576a" stroke-width="1"/>
+
+  <text x="200" y="405" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="3" fill="#9c1722">BELGIË</text>
+  <line x1="160" y1="420" x2="240" y2="420" stroke="#c9576a" stroke-width="1"/>
+
+  <text x="200" y="465" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#4a1420">Kriek</text>
+  
+  <text x="200" y="495" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1" fill="#7a3a45">ЛАМБИК С ВИШНЕЙ · 4%</text>
+
+  <line x1="160" y1="512" x2="240" y2="512" stroke="#c9576a" stroke-width="1"/>
+  <text x="200" y="538" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#4a1420">Brouwerij Zoete Kers</text>
+  <text x="200" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#9c1722">4% ABV</text>
+
+  <rect x="176" y="185" width="48" height="6" fill="#8a8a8a" opacity="0.7"/>
+</svg>

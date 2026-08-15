@@ -45,6 +45,20 @@ nav:
       - Игристые:
           - Шампань Брют (Франция): wines/champagne.md
           - Просекко (Италия): wines/prosecco.md
+  - Пиво:
+      - Бельгия:
+          - Dubbel: beers/dubbel.md
+          - Tripel: beers/tripel.md
+          - Witbier: beers/witbier.md
+          - Kriek: beers/kriek.md
+      - Германия:
+          - Pils: beers/pils.md
+          - Hefeweizen: beers/hefeweizen.md
+          - Rauchbier: beers/rauchbier.md
+      - Франция:
+          - Bière de Garde: beers/biere_garde.md
+          - Blonde d'Alsace: beers/alsace_blonde.md
+          - India Pale Ale: beers/french_ipa.md
   - Меню:
       - Салаты: menu/salads.md
       - Горячие блюда: menu/mains.md
